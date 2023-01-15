@@ -1,7 +1,8 @@
 # Demo
 Test git  command
 
-112						6#
+112                      # 6T + 1S
 
-adfad					   #
+adfadsdfadsf             # 3T + 1S
+dsjfjjs                  #
 
