@@ -1,1 +1,2 @@
-/subdir
+subdir/*.c
+h.c
